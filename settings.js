@@ -1,11 +1,11 @@
 module.exports = {
-    ShieldI:"MTA5MzI0Mzc0Mjk0Njg1NzAyNQ.GPj1xr._3rWbL7DwtNDTzxYmFwenZkz8DV-E6LQFpsx_w",
-    Shield2:"MTA5MzI0NDA3NDgyOTU0NTYyMg.GPPdjv.NiIOLWAC-dRFcI8P_vMoT2LSNDa-rQ_Z5KhTbw",
-    guildID:"1104793442342670348",
-    Mongoose:"mongodb+srv://guarddeneme:guarddeneme@cluster0.tszkotq.mongodb.net/?retryWrites=true&w=majority",
-    Owner:["727342003339395146"],
-    Ses:"1104859138443448370",
-    Durum:["DuckFucker"],
+    ShieldI:"TOKEN1",
+    Shield2:"TOKEN2",
+    guildID:"GUİLDID",
+    Mongoose:"MONGODB",
+    Owner:["OWNERID"],
+    Ses:"BOTSES",
+    Durum:["DURUMÇOĞALTILABİLİR"],
     Prefixs:["."]
 }
 /*
