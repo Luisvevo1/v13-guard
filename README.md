@@ -2,18 +2,6 @@ Selam Ben Luis 17 Yaşında 1 Seneden Fazladır Discord.js Üzerinde Kendi Halin
 
 
 
-
-
-
-
-- İlk olarak bilgisayarına [Node JS](https://nodejs.org/en/) `(en düşük v18)` indir.
-- Daha sonra altyapıyı indirip `./settings.js` dosyasını doldur.
-- sonrasında modülleri kurmak için terminale aşağıdaki kodu yaz.
-\
-```diff
-npm install
-```
-- Başlat.bat Açarak Botu Başlat Bot Hazır
  
  
  
