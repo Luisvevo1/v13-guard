@@ -14,4 +14,4 @@ Owner'ı Olduğum Developer Grupuna Beklerim :)
 
 - [Discord Profilim](https://discord.com/users/727342003339395146)
 
-- HERTÜRLÜ YARDIM DESTEK VE HATA İÇİN ULAŞABİLİRSİNİZ
+- HERTÜRLÜ YARDIM DESTEK VE HATA İÇİN ULAŞABİLİRSİNİZ..
