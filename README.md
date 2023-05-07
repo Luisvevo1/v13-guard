@@ -3,7 +3,8 @@ Selam Ben Luis 17 Yaşında 1 Seneden Fazladır Discord.js Üzerinde Kendi Halin
 
 
  
- 
+<br> </br>
+<br> </br>
  
  
  
@@ -13,9 +14,10 @@ Selam Ben Luis 17 Yaşında 1 Seneden Fazladır Discord.js Üzerinde Kendi Halin
 - Owner'ı Olduğum Developer Grupuna Beklerim :)
  
  
+<br> </br>
+<br> </br>
  
- 
- 
+
  BOT HAKKINDA BAZI GÖRSELLER
  
 <img  src="https://cdn.discordapp.com/attachments/1104892300397645885/1104910395153592362/image.png">
