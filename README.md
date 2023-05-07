@@ -18,8 +18,9 @@ npm install
  
  
  BOT HAKKINDA BAZI GÖRSELLER
- <img  src="https://cdn.discordapp.com/attachments/1104892300397645885/1104910395153592362/image.png">
- <img  src="https://cdn.discordapp.com/attachments/1104892300397645885/1104910862210306048/image.png">
+https://cdn.discordapp.com/attachments/1104892300397645885/1104910395153592362/image.png
+https://cdn.discordapp.com/attachments/1104892300397645885/1104910536245792898/image.png
+https://cdn.discordapp.com/attachments/1104892300397645885/1104910862210306048/image.png
 
 
 - [Discord Profilim](https://discord.com/users/727342003339395146)
