@@ -3,10 +3,26 @@ Selam Ben Luis 17 Yaşında 1 Seneden Fazladır Discord.js Üzerinde Kendi Halin
 - İlk olarak bilgisayarına [Node JS](https://nodejs.org/en/) `(en düşük v18)` indir.
 
 - Daha sonra altyapıyı indirip `./settings.js` dosyasını doldur.
-- sonrasında modülleri kurmak için terminale aşşağıdaki kodu yaz.
+- sonrasında modülleri kurmak için terminale aşağıdaki kodu yaz.
 
 ```diff
 npm install
 ```
 - Başlat.bat Açarak Botu Başlat Bot Hazır
-- .safe Komutu İle Güvenli Ekliyebilirsin
+ 
+ 
+ 
+- [Space Developer](https://discord.gg/gjjHmhTFhY)
+- Owner'ı Olduğum Developer Grupuna Beklerim :)
+ 
+ 
+ 
+ BOT HAKKINDA BAZI GÖRSELLER
+ <img  src="https://cdn.discordapp.com/attachments/1104892300397645885/1104910395153592362/image.png">
+ <img  src="https://cdn.discordapp.com/attachments/1104892300397645885/1104910536245792898/image.png">
+ <img  src="https://cdn.discordapp.com/attachments/1104892300397645885/1104910862210306048/image.png">
+
+
+- [Discord Profilim](https://discord.com/users/727342003339395146)
+
+- HERTÜRLÜ YARDIM DESTEK VE HATA İÇİN ULAŞABİLİRSİNİZ
