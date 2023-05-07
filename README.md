@@ -2,7 +2,6 @@ Selam Ben Luis 17 Yaşında 1 Seneden Fazladır Discord.js Üzerinde Kendi Halin
 
  
 <br> </br>
-<br> </br>
  
  
 - [Space Developer](https://discord.gg/gjjHmhTFhY)
